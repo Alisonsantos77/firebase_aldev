@@ -1,0 +1,402 @@
+2024-09-27T20:37:07.625687-0300 INFO Inicializando a aplicação
+2024-09-27T20:37:07.897614-0300 INFO Aplicação iniciada
+2024-09-27T20:37:07.900605-0300 INFO Configurando rotas
+2024-09-27T20:37:07.903597-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T20:37:07.907586-0300 INFO Página de Login do Usuário carregada
+2024-09-27T20:39:07.825885-0300 INFO Inicializando a aplicação
+2024-09-27T20:39:08.059232-0300 INFO Aplicação iniciada
+2024-09-27T20:39:08.060229-0300 INFO Configurando rotas
+2024-09-27T20:39:08.061227-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T20:39:08.062224-0300 INFO Página de Login do Usuário carregada
+2024-09-27T20:43:45.424526-0300 INFO Inicializando a aplicação
+2024-09-27T20:43:46.008336-0300 INFO Aplicação iniciada
+2024-09-27T20:43:46.009334-0300 INFO Configurando rotas
+2024-09-27T20:43:46.010331-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T20:43:46.012325-0300 INFO Página de Login do Usuário carregada
+2024-09-27T20:44:00.282699-0300 INFO Inicializando a aplicação
+2024-09-27T20:44:00.627198-0300 INFO Aplicação iniciada
+2024-09-27T20:44:00.628195-0300 INFO Configurando rotas
+2024-09-27T20:44:00.629192-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T20:44:00.630190-0300 INFO Página de Login do Usuário carregada
+2024-09-27T20:44:05.109070-0300 INFO Inicializando a aplicação
+2024-09-27T20:44:05.312037-0300 INFO Aplicação iniciada
+2024-09-27T20:44:05.313043-0300 INFO Configurando rotas
+2024-09-27T20:44:05.314031-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T20:44:05.316027-0300 INFO Página de Login do Usuário carregada
+2024-09-27T20:44:30.343684-0300 INFO Inicializando a aplicação
+2024-09-27T20:44:30.461126-0300 INFO Aplicação iniciada
+2024-09-27T20:44:30.462123-0300 INFO Configurando rotas
+2024-09-27T20:44:30.463120-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T20:44:30.466113-0300 INFO Página de Login do Usuário carregada
+2024-09-27T20:44:32.607620-0300 INFO Retornando para a rota anterior: None
+2024-09-27T20:44:32.608617-0300 INFO Rota alterada: RouteChangeEvent(route='', name='route_change', data='')
+2024-09-27T20:44:32.610643-0300 INFO Página de Login do Usuário carregada
+2024-09-27T20:44:49.262422-0300 INFO Inicializando a aplicação
+2024-09-27T20:44:49.623965-0300 INFO Aplicação iniciada
+2024-09-27T20:44:49.627955-0300 INFO Configurando rotas
+2024-09-27T20:44:49.628952-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T20:44:49.629950-0300 INFO Página de Login do Usuário carregada
+2024-09-27T20:45:03.733903-0300 INFO Inicializando a aplicação
+2024-09-27T20:45:04.083965-0300 INFO Aplicação iniciada
+2024-09-27T20:45:04.084948-0300 INFO Configurando rotas
+2024-09-27T20:45:04.085933-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T20:45:04.087928-0300 INFO Página de Login do Usuário carregada
+2024-09-27T20:45:18.810499-0300 INFO Inicializando a aplicação
+2024-09-27T20:45:19.093743-0300 INFO Aplicação iniciada
+2024-09-27T20:45:19.094739-0300 INFO Configurando rotas
+2024-09-27T20:45:19.095737-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T20:45:19.096734-0300 INFO Página de Login do Usuário carregada
+2024-09-27T20:45:33.780080-0300 INFO Inicializando a aplicação
+2024-09-27T20:45:34.091221-0300 INFO Aplicação iniciada
+2024-09-27T20:45:34.093215-0300 INFO Configurando rotas
+2024-09-27T20:45:34.094212-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T20:45:34.097213-0300 INFO Página de Login do Usuário carregada
+2024-09-27T20:45:48.939003-0300 INFO Inicializando a aplicação
+2024-09-27T20:49:33.572473-0300 INFO Inicializando a aplicação
+2024-09-27T20:49:33.913561-0300 INFO Aplicação iniciada
+2024-09-27T20:49:33.914559-0300 INFO Configurando rotas
+2024-09-27T20:49:33.916553-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T20:49:33.918549-0300 INFO Página de Login do Usuário carregada
+2024-09-27T20:57:47.937030-0300 INFO Inicializando a aplicação
+2024-09-27T20:57:48.207376-0300 INFO Aplicação iniciada
+2024-09-27T20:57:48.209371-0300 INFO Configurando rotas
+2024-09-27T20:57:48.210368-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T20:57:48.211365-0300 INFO Página de Login do Usuário carregada
+2024-09-27T20:59:23.040043-0300 INFO Inicializando a aplicação
+2024-09-27T20:59:23.453965-0300 INFO Aplicação iniciada
+2024-09-27T20:59:23.454935-0300 INFO Configurando rotas
+2024-09-27T20:59:23.456930-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T20:59:23.458924-0300 INFO Página de Login do Usuário carregada
+2024-09-27T20:59:43.618545-0300 INFO Inicializando a aplicação
+2024-09-27T20:59:43.760167-0300 INFO Aplicação iniciada
+2024-09-27T20:59:43.760167-0300 INFO Configurando rotas
+2024-09-27T20:59:43.762163-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T20:59:43.763159-0300 INFO Página de Login do Usuário carregada
+2024-09-27T20:59:56.772542-0300 INFO Inicializando a aplicação
+2024-09-27T20:59:56.929237-0300 INFO Aplicação iniciada
+2024-09-27T20:59:56.929237-0300 INFO Configurando rotas
+2024-09-27T20:59:56.932228-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T20:59:56.935221-0300 INFO Página de Login do Usuário carregada
+2024-09-27T21:00:11.811314-0300 INFO Inicializando a aplicação
+2024-09-27T21:00:11.987819-0300 INFO Aplicação iniciada
+2024-09-27T21:00:11.990811-0300 INFO Configurando rotas
+2024-09-27T21:00:11.992806-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T21:00:11.993804-0300 INFO Página de Login do Usuário carregada
+2024-09-27T21:00:26.687603-0300 INFO Inicializando a aplicação
+2024-09-27T21:00:26.973425-0300 INFO Aplicação iniciada
+2024-09-27T21:00:26.974423-0300 INFO Configurando rotas
+2024-09-27T21:00:26.978412-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T21:00:26.979409-0300 INFO Página de Login do Usuário carregada
+2024-09-27T21:00:39.987667-0300 INFO Inicializando a aplicação
+2024-09-27T21:00:40.326432-0300 INFO Aplicação iniciada
+2024-09-27T21:00:40.327429-0300 INFO Configurando rotas
+2024-09-27T21:00:40.329424-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T21:00:40.330421-0300 INFO Página de Login do Usuário carregada
+2024-09-27T21:01:01.057663-0300 INFO Inicializando a aplicação
+2024-09-27T21:01:01.319968-0300 INFO Aplicação iniciada
+2024-09-27T21:01:01.319968-0300 INFO Configurando rotas
+2024-09-27T21:01:01.321962-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T21:01:01.323929-0300 INFO Página de Login do Usuário carregada
+2024-09-27T21:01:16.126718-0300 INFO Inicializando a aplicação
+2024-09-27T21:01:16.346131-0300 INFO Aplicação iniciada
+2024-09-27T21:01:16.346131-0300 INFO Configurando rotas
+2024-09-27T21:01:16.348126-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T21:01:16.349153-0300 INFO Página de Login do Usuário carregada
+2024-09-27T21:01:31.230416-0300 INFO Inicializando a aplicação
+2024-09-27T21:01:31.381014-0300 INFO Aplicação iniciada
+2024-09-27T21:01:31.383008-0300 INFO Configurando rotas
+2024-09-27T21:01:31.384005-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T21:01:31.385003-0300 INFO Página de Login do Usuário carregada
+2024-09-27T21:01:46.037830-0300 INFO Inicializando a aplicação
+2024-09-27T21:01:46.338483-0300 INFO Aplicação iniciada
+2024-09-27T21:01:46.341475-0300 INFO Configurando rotas
+2024-09-27T21:01:46.343470-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T21:01:46.345464-0300 INFO Página de Login do Usuário carregada
+2024-09-27T21:02:01.028977-0300 INFO Inicializando a aplicação
+2024-09-27T21:02:01.360064-0300 INFO Aplicação iniciada
+2024-09-27T21:02:01.361060-0300 INFO Configurando rotas
+2024-09-27T21:02:01.362058-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T21:02:01.363055-0300 INFO Página de Login do Usuário carregada
+2024-09-27T21:02:15.977364-0300 INFO Inicializando a aplicação
+2024-09-27T21:02:16.346361-0300 INFO Aplicação iniciada
+2024-09-27T21:02:16.346361-0300 INFO Configurando rotas
+2024-09-27T21:02:16.348372-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T21:02:16.350338-0300 INFO Página de Login do Usuário carregada
+2024-09-27T21:02:31.067078-0300 INFO Inicializando a aplicação
+2024-09-27T21:02:31.378248-0300 INFO Aplicação iniciada
+2024-09-27T21:02:31.378248-0300 INFO Configurando rotas
+2024-09-27T21:02:31.380244-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T21:02:31.382239-0300 INFO Página de Login do Usuário carregada
+2024-09-27T21:02:46.205299-0300 INFO Inicializando a aplicação
+2024-09-27T21:02:46.378835-0300 INFO Aplicação iniciada
+2024-09-27T21:02:46.379833-0300 INFO Configurando rotas
+2024-09-27T21:02:46.382824-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T21:02:46.385817-0300 INFO Página de Login do Usuário carregada
+2024-09-27T21:02:49.295089-0300 INFO Inicializando a aplicação
+2024-09-27T21:02:49.557336-0300 INFO Aplicação iniciada
+2024-09-27T21:02:49.558333-0300 INFO Configurando rotas
+2024-09-27T21:02:49.560362-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T21:02:49.561325-0300 INFO Página de Login do Usuário carregada
+2024-09-27T21:03:10.108901-0300 INFO Inicializando a aplicação
+2024-09-27T21:03:11.015514-0300 INFO Aplicação iniciada
+2024-09-27T21:03:11.036496-0300 INFO Configurando rotas
+2024-09-27T21:03:11.072477-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T21:03:11.096450-0300 INFO Página de Login do Usuário carregada
+2024-09-27T21:03:24.383560-0300 INFO Inicializando a aplicação
+2024-09-27T21:03:24.783536-0300 INFO Aplicação iniciada
+2024-09-27T21:03:24.784534-0300 INFO Configurando rotas
+2024-09-27T21:03:24.785531-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T21:03:24.786528-0300 INFO Página de Login do Usuário carregada
+2024-09-27T21:03:34.063558-0300 INFO Inicializando a aplicação
+2024-09-27T21:03:34.500522-0300 INFO Aplicação iniciada
+2024-09-27T21:03:34.500522-0300 INFO Configurando rotas
+2024-09-27T21:03:34.502517-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T21:03:34.503514-0300 INFO Página de Login do Usuário carregada
+2024-09-27T21:06:26.091409-0300 INFO Inicializando a aplicação
+2024-09-27T21:06:26.256939-0300 INFO Aplicação iniciada
+2024-09-27T21:06:26.256939-0300 INFO Configurando rotas
+2024-09-27T21:06:26.258957-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T21:06:26.259930-0300 INFO Página de Login do Usuário carregada
+2024-09-27T21:07:02.109733-0300 INFO Inicializando a aplicação
+2024-09-27T21:07:02.186499-0300 INFO Aplicação iniciada
+2024-09-27T21:07:02.187496-0300 INFO Configurando rotas
+2024-09-27T21:07:02.189492-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T21:07:02.190489-0300 INFO Página de Login do Usuário carregada
+2024-09-27T21:07:39.289160-0300 INFO Inicializando a aplicação
+2024-09-27T21:07:39.845894-0300 INFO Aplicação iniciada
+2024-09-27T21:07:39.846863-0300 INFO Configurando rotas
+2024-09-27T21:07:39.847860-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-27T21:07:39.849883-0300 INFO Página de Login do Usuário carregada
+2024-09-27T21:07:45.641196-0300 INFO Inicializando a aplicação
+2024-09-27T21:07:47.045040-0300 INFO Inicializando a aplicação
+2024-09-28T17:28:37.339713-0300 INFO Inicializando a aplicação
+2024-09-28T17:28:38.014819-0300 INFO Aplicação iniciada
+2024-09-28T17:28:38.015816-0300 INFO Configurando rotas
+2024-09-28T17:28:38.021311-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T17:28:38.023306-0300 INFO Página de Login do Usuário carregada
+2024-09-28T17:28:53.855421-0300 INFO Rota alterada: RouteChangeEvent(route='/home', name='route_change', data='/home')
+2024-09-28T17:28:53.857415-0300 INFO Página de Login do Usuário carregada
+2024-09-28T17:29:17.438255-0300 INFO Retornando para a rota anterior: /login
+2024-09-28T17:29:17.439281-0300 INFO Rota alterada: RouteChangeEvent(route='/login', name='route_change', data='/login')
+2024-09-28T17:29:17.441245-0300 INFO Página de Login do Usuário carregada
+2024-09-28T17:29:18.261054-0300 INFO Retornando para a rota anterior: /login
+2024-09-28T17:29:19.448052-0300 INFO Retornando para a rota anterior: None
+2024-09-28T17:29:19.449048-0300 INFO Rota alterada: RouteChangeEvent(route='', name='route_change', data='')
+2024-09-28T17:29:19.450046-0300 INFO Página de Login do Usuário carregada
+2024-09-28T17:29:20.851997-0300 INFO Retornando para a rota anterior: None
+2024-09-28T17:32:01.350829-0300 INFO Inicializando a aplicação
+2024-09-28T17:32:01.650001-0300 INFO Aplicação iniciada
+2024-09-28T17:32:01.650998-0300 INFO Configurando rotas
+2024-09-28T17:32:01.651996-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T17:32:01.654988-0300 INFO Página de Login do Usuário carregada
+2024-09-28T17:32:19.417843-0300 INFO Rota alterada: RouteChangeEvent(route='/home', name='route_change', data='/home')
+2024-09-28T17:32:19.419838-0300 INFO Página de Login do Usuário carregada
+2024-09-28T17:32:19.419838-0300 INFO Página Home carregada
+2024-09-28T17:40:26.928747-0300 INFO Inicializando a aplicação
+2024-09-28T17:40:27.183067-0300 INFO Aplicação iniciada
+2024-09-28T17:40:27.184065-0300 INFO Configurando rotas
+2024-09-28T17:40:27.186059-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T17:40:27.191045-0300 INFO Página de Login do Usuário carregada
+2024-09-28T17:40:37.990539-0300 INFO Rota alterada: RouteChangeEvent(route='/home', name='route_change', data='/home')
+2024-09-28T17:40:37.992534-0300 INFO Página de Login do Usuário carregada
+2024-09-28T17:40:37.993503-0300 INFO Página Home carregada
+2024-09-28T17:40:57.241076-0300 INFO Retornando para a rota anterior: /login
+2024-09-28T17:40:57.244067-0300 INFO Rota alterada: RouteChangeEvent(route='/login', name='route_change', data='/login')
+2024-09-28T17:40:57.246062-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:13:36.598596-0300 INFO Inicializando a aplicação
+2024-09-28T18:15:56.930821-0300 INFO Inicializando a aplicação
+2024-09-28T18:15:57.193091-0300 INFO Aplicação iniciada
+2024-09-28T18:15:57.194089-0300 INFO Configurando rotas
+2024-09-28T18:15:57.195087-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T18:15:57.199076-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:16:03.199248-0300 ERROR Erro ao realizar login com Github: oauthAuthorize command is not supported.
+2024-09-28T18:16:56.761553-0300 INFO Inicializando a aplicação
+2024-09-28T18:17:01.459434-0300 INFO Aplicação iniciada
+2024-09-28T18:17:01.460433-0300 INFO Configurando rotas
+2024-09-28T18:17:01.462425-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T18:17:01.466937-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:17:24.380758-0300 INFO Inicializando a aplicação
+2024-09-28T18:17:28.309288-0300 INFO Aplicação iniciada
+2024-09-28T18:17:28.310285-0300 INFO Configurando rotas
+2024-09-28T18:17:28.324248-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T18:17:28.333731-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:17:30.903602-0300 INFO Rota alterada: RouteChangeEvent(route='/home', name='route_change', data='/home')
+2024-09-28T18:17:30.905598-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:17:30.906595-0300 INFO Página Home carregada
+2024-09-28T18:25:57.538379-0300 INFO Inicializando a aplicação
+2024-09-28T18:25:58.185649-0300 INFO Aplicação iniciada
+2024-09-28T18:25:58.185649-0300 INFO Configurando rotas
+2024-09-28T18:25:58.187644-0300 INFO Rota alterada: RouteChangeEvent(route='/home', name='route_change', data='/home')
+2024-09-28T18:25:58.188642-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:25:58.188642-0300 INFO Página Home carregada
+2024-09-28T18:26:23.425176-0300 INFO Inicializando a aplicação
+2024-09-28T18:26:27.370175-0300 INFO Aplicação iniciada
+2024-09-28T18:26:27.373167-0300 INFO Configurando rotas
+2024-09-28T18:26:27.374164-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T18:26:27.377156-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:27:42.699223-0300 INFO Inicializando a aplicação
+2024-09-28T18:27:43.637918-0300 INFO Aplicação iniciada
+2024-09-28T18:27:43.638915-0300 INFO Configurando rotas
+2024-09-28T18:27:43.639912-0300 INFO Rota alterada: RouteChangeEvent(route='/home', name='route_change', data='/home')
+2024-09-28T18:27:43.642904-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:27:43.645896-0300 INFO Página Home carregada
+2024-09-28T18:27:45.128485-0300 INFO Aplicação iniciada
+2024-09-28T18:27:45.129482-0300 INFO Configurando rotas
+2024-09-28T18:27:45.130480-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T18:27:45.136465-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:28:44.827404-0300 INFO Inicializando a aplicação
+2024-09-28T18:28:54.798962-0300 INFO Inicializando a aplicação
+2024-09-28T18:28:55.697029-0300 INFO Aplicação iniciada
+2024-09-28T18:28:55.705008-0300 INFO Configurando rotas
+2024-09-28T18:28:55.708998-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T18:28:55.710992-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:28:58.748103-0300 INFO Inicializando a aplicação
+2024-09-28T18:28:59.843562-0300 INFO Aplicação iniciada
+2024-09-28T18:28:59.844558-0300 INFO Configurando rotas
+2024-09-28T18:28:59.846554-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T18:28:59.847551-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:28:59.859520-0300 INFO Aplicação iniciada
+2024-09-28T18:28:59.860516-0300 INFO Configurando rotas
+2024-09-28T18:28:59.862511-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T18:28:59.864506-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:29:13.422260-0300 INFO Inicializando a aplicação
+2024-09-28T18:29:14.518527-0300 INFO Aplicação iniciada
+2024-09-28T18:29:14.519500-0300 INFO Configurando rotas
+2024-09-28T18:29:14.520497-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T18:29:14.522491-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:29:14.662118-0300 INFO Aplicação iniciada
+2024-09-28T18:29:14.663115-0300 INFO Configurando rotas
+2024-09-28T18:29:14.664112-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T18:29:14.666108-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:29:27.740899-0300 INFO Inicializando a aplicação
+2024-09-28T18:29:28.696958-0300 INFO Aplicação iniciada
+2024-09-28T18:29:28.697954-0300 INFO Configurando rotas
+2024-09-28T18:29:28.698964-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T18:29:28.700947-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:29:28.711918-0300 INFO Aplicação iniciada
+2024-09-28T18:29:28.711918-0300 INFO Configurando rotas
+2024-09-28T18:29:28.712915-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T18:29:28.714909-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:29:40.925418-0300 INFO Inicializando a aplicação
+2024-09-28T18:29:43.070683-0300 INFO Inicializando a aplicação
+2024-09-28T18:29:47.403461-0300 INFO Inicializando a aplicação
+2024-09-28T18:30:11.350030-0300 INFO Inicializando a aplicação
+2024-09-28T18:30:19.287623-0300 INFO Inicializando a aplicação
+2024-09-28T18:30:30.107754-0300 INFO Inicializando a aplicação
+2024-09-28T18:30:33.931984-0300 INFO Inicializando a aplicação
+2024-09-28T18:30:48.079736-0300 INFO Inicializando a aplicação
+2024-09-28T18:31:03.146227-0300 INFO Inicializando a aplicação
+2024-09-28T18:31:18.056214-0300 INFO Inicializando a aplicação
+2024-09-28T18:31:29.021086-0300 INFO Inicializando a aplicação
+2024-09-28T18:31:30.983872-0300 INFO Inicializando a aplicação
+2024-09-28T18:31:44.159188-0300 INFO Inicializando a aplicação
+2024-09-28T18:31:51.942490-0300 INFO Inicializando a aplicação
+2024-09-28T18:32:33.264819-0300 INFO Inicializando a aplicação
+2024-09-28T18:35:05.168607-0300 INFO Inicializando a aplicação
+2024-09-28T18:35:09.065308-0300 INFO Aplicação iniciada
+2024-09-28T18:35:09.066305-0300 INFO Configurando rotas
+2024-09-28T18:35:09.068300-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T18:35:09.070295-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:35:20.608325-0300 INFO Inicializando a aplicação
+2024-09-28T18:36:35.623202-0300 INFO Aplicação iniciada
+2024-09-28T18:36:35.624186-0300 INFO Configurando rotas
+2024-09-28T18:36:35.625183-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T18:36:35.627177-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:37:05.738422-0300 INFO Inicializando a aplicação
+2024-09-28T18:37:09.571239-0300 INFO Aplicação iniciada
+2024-09-28T18:37:09.579218-0300 INFO Configurando rotas
+2024-09-28T18:37:09.594178-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T18:37:09.598167-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:38:51.697607-0300 INFO Inicializando a aplicação
+2024-09-28T18:38:52.699835-0300 INFO Aplicação iniciada
+2024-09-28T18:38:52.699835-0300 INFO Configurando rotas
+2024-09-28T18:38:52.701830-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T18:38:52.702798-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:39:21.283199-0300 INFO Inicializando a aplicação
+2024-09-28T18:39:24.866540-0300 INFO Aplicação iniciada
+2024-09-28T18:39:24.867537-0300 INFO Configurando rotas
+2024-09-28T18:39:24.869532-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T18:39:24.871527-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:39:28.495382-0300 INFO Rota alterada: RouteChangeEvent(route='/api/oauth/redirect?code=ca6ca4b14e493187d78c&state=uEcY4UHPazS8vKYmG6YVWA', name='route_change', data='/api/oauth/redirect?code=ca6ca4b14e493187d78c&state=uEcY4UHPazS8vKYmG6YVWA')
+2024-09-28T18:39:28.497837-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:40:55.178746-0300 INFO Rota alterada: RouteChangeEvent(route='/api/oauth/redirect?code=41c34c5847b13a126087&state=lxVqvScD9e7rIjE0K5dXFw', name='route_change', data='/api/oauth/redirect?code=41c34c5847b13a126087&state=lxVqvScD9e7rIjE0K5dXFw')
+2024-09-28T18:40:55.193707-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:41:48.252810-0300 INFO Inicializando a aplicação
+2024-09-28T18:41:50.591128-0300 INFO Aplicação iniciada
+2024-09-28T18:41:50.592125-0300 INFO Configurando rotas
+2024-09-28T18:41:50.594120-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T18:41:50.596114-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:41:54.910806-0300 INFO Rota alterada: RouteChangeEvent(route='/home', name='route_change', data='/home')
+2024-09-28T18:41:54.911804-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:41:54.912801-0300 INFO Página Home carregada
+2024-09-28T18:41:56.204990-0300 INFO Rota alterada: RouteChangeEvent(route='/api/oauth/redirect?code=b5b0f0059b844d7d3597&state=K6FIpgrNQgUQiRBfGiC8hg', name='route_change', data='/api/oauth/redirect?code=b5b0f0059b844d7d3597&state=K6FIpgrNQgUQiRBfGiC8hg')
+2024-09-28T18:41:56.205988-0300 INFO Página de Login do Usuário carregada
+2024-09-28T18:56:52.278436-0300 INFO Inicializando a aplicação
+2024-09-28T18:56:54.506120-0300 INFO Aplicação iniciada
+2024-09-28T18:56:54.508115-0300 INFO Configurando rotas
+2024-09-28T18:56:54.510109-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T18:56:54.512104-0300 INFO Página de Login do Usuário carregada
+2024-09-28T19:00:20.841253-0300 INFO Inicializando a aplicação
+2024-09-28T19:00:23.187683-0300 INFO Aplicação iniciada
+2024-09-28T19:00:23.188680-0300 INFO Configurando rotas
+2024-09-28T19:00:23.190675-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T19:00:23.192669-0300 INFO Página de Login do Usuário carregada
+2024-09-28T19:00:25.680313-0300 ERROR Erro ao realizar login com Github: 'NoneType' object is not subscriptable
+2024-09-28T19:00:27.136917-0300 INFO Rota alterada: RouteChangeEvent(route='/api/oauth/redirect?code=af9e58c4f7212884422c&state=xY04AheucHnMGG3Q7vNo7g', name='route_change', data='/api/oauth/redirect?code=af9e58c4f7212884422c&state=xY04AheucHnMGG3Q7vNo7g')
+2024-09-28T19:00:27.138912-0300 INFO Página de Login do Usuário carregada
+2024-09-28T19:00:47.057133-0300 INFO Retornando para a rota anterior: /login
+2024-09-28T19:00:47.059117-0300 INFO Rota alterada: RouteChangeEvent(route='/login', name='route_change', data='/login')
+2024-09-28T19:00:47.060142-0300 INFO Página de Login do Usuário carregada
+2024-09-28T19:00:47.924652-0300 INFO Retornando para a rota anterior: /login
+2024-09-28T19:00:51.354177-0300 ERROR Erro ao realizar login com Github: 'NoneType' object is not subscriptable
+2024-09-28T19:01:56.917745-0300 INFO Inicializando a aplicação
+2024-09-28T19:01:59.278124-0300 INFO Aplicação iniciada
+2024-09-28T19:01:59.280118-0300 INFO Configurando rotas
+2024-09-28T19:01:59.283111-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T19:01:59.285152-0300 INFO Página de Login do Usuário carregada
+2024-09-28T19:02:01.180868-0300 ERROR Erro ao realizar login com Github: 'NoneType' object is not subscriptable
+2024-09-28T19:02:02.572184-0300 INFO Rota alterada: RouteChangeEvent(route='/api/oauth/redirect?code=a5e5064fa8154f787307&state=pHP4E0uspy4WKJkRhWr-BA', name='route_change', data='/api/oauth/redirect?code=a5e5064fa8154f787307&state=pHP4E0uspy4WKJkRhWr-BA')
+2024-09-28T19:02:02.576173-0300 INFO Página de Login do Usuário carregada
+2024-09-28T19:27:13.417523-0300 INFO Inicializando a aplicação
+2024-09-28T19:27:23.798770-0300 INFO Aplicação iniciada
+2024-09-28T19:27:23.857613-0300 INFO Configurando rotas
+2024-09-28T19:27:23.921442-0300 INFO Aplicação iniciada
+2024-09-28T19:27:23.984274-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T19:27:23.984274-0300 INFO Configurando rotas
+2024-09-28T19:27:24.074035-0300 INFO Página de Login do Usuário carregada
+2024-09-28T19:27:24.179752-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T19:27:24.199699-0300 INFO Página de Login do Usuário carregada
+2024-09-28T19:31:07.465045-0300 INFO Inicializando a aplicação
+2024-09-28T19:31:10.017731-0300 INFO Aplicação iniciada
+2024-09-28T19:31:10.018728-0300 INFO Configurando rotas
+2024-09-28T19:31:10.019725-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T19:31:10.021720-0300 INFO Página de Login do Usuário carregada
+2024-09-28T19:31:16.371745-0300 ERROR Erro ao acessar Github: login_github() missing 1 required positional argument: 'page'
+2024-09-28T19:31:40.329697-0300 INFO Inicializando a aplicação
+2024-09-28T19:31:42.902818-0300 INFO Aplicação iniciada
+2024-09-28T19:31:42.903817-0300 INFO Configurando rotas
+2024-09-28T19:31:42.904813-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T19:31:42.907805-0300 INFO Página de Login do Usuário carregada
+2024-09-28T19:31:44.727235-0300 ERROR Erro ao acessar Github: object NoneType can't be used in 'await' expression
+2024-09-28T19:31:46.069291-0300 INFO Rota alterada: RouteChangeEvent(route='/api/oauth/redirect?code=4cc2c3a7895c57ea2f2c&state=0mvTcTSFAZIV5JEDK8Kkkw', name='route_change', data='/api/oauth/redirect?code=4cc2c3a7895c57ea2f2c&state=0mvTcTSFAZIV5JEDK8Kkkw')
+2024-09-28T19:31:46.070289-0300 INFO Página de Login do Usuário carregada
+2024-09-28T19:34:24.623986-0300 INFO Inicializando a aplicação
+2024-09-28T19:34:27.074434-0300 INFO Aplicação iniciada
+2024-09-28T19:34:27.082413-0300 INFO Configurando rotas
+2024-09-28T19:34:27.087401-0300 INFO Rota alterada: RouteChangeEvent(route='/', name='route_change', data='/')
+2024-09-28T19:34:27.093383-0300 INFO Página de Login do Usuário carregada
+2024-09-28T19:34:30.381155-0300 INFO Rota alterada: RouteChangeEvent(route='/api/oauth/redirect?code=f4463a61d7e43017005d&state=hjrtNo7oftxjxmbXtlzMTQ', name='route_change', data='/api/oauth/redirect?code=f4463a61d7e43017005d&state=hjrtNo7oftxjxmbXtlzMTQ')
+2024-09-28T19:34:30.382152-0300 INFO Página de Login do Usuário carregada
+2024-09-28T19:34:31.749491-0300 INFO Rota alterada: RouteChangeEvent(route='/home', name='route_change', data='/home')
+2024-09-28T19:34:31.751455-0300 INFO Página de Login do Usuário carregada
+2024-09-28T19:34:31.751455-0300 INFO Página Home carregada
+2024-09-28T19:34:31.789354-0300 INFO Retornando para a rota anterior: /login
+2024-09-28T19:34:31.793343-0300 INFO Rota alterada: RouteChangeEvent(route='/login', name='route_change', data='/login')
+2024-09-28T19:34:31.794341-0300 INFO Página de Login do Usuário carregada
+2024-09-28T19:34:31.875125-0300 INFO Retornando para a rota anterior: /login
+2024-09-28T19:34:31.927983-0300 INFO Retornando para a rota anterior: /login
+2024-09-28T19:34:32.021733-0300 INFO Retornando para a rota anterior: /login
+2024-09-28T19:34:32.104512-0300 INFO Retornando para a rota anterior: None
+2024-09-28T19:34:32.106506-0300 INFO Rota alterada: RouteChangeEvent(route='', name='route_change', data='')
+2024-09-28T19:34:32.108501-0300 INFO Página de Login do Usuário carregada
+2024-09-28T19:34:32.135429-0300 INFO Retornando para a rota anterior: None
